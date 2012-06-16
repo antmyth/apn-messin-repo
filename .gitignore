@@ -7,4 +7,5 @@ bin-release/
 .flexProperties
 .settings/
 .project
+.DS_Store
 .idea/
